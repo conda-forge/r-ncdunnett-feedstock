@@ -1,11 +1,11 @@
-About r-ncdunnett
-=================
+About r-ncdunnett-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ncdunnett-feedstock/blob/main/LICENSE.txt)
 
 Home: www.dex.ufla.br/~danielff/r_resources.html
 
 Package license: GPL (>= 2)
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-ncdunnett-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes the noncentral Dunnett's test distribution (pdf, cdf and quantile) and generates random numbers. 
 
